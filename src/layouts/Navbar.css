@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(170, 212, 251);
+    padding: 1rem;
+}
+nav .navLink-area{
+    padding: 0.7rem;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+nav .active{
+      color: rgb(242, 49, 233);
+}

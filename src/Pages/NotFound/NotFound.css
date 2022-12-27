@@ -1,0 +1,11 @@
+.not-found{
+    height: 20rem;
+    width: 35rem;
+    background-color: rgb(229, 242, 253);
+    margin-left: 20rem;
+    margin-top: 8rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
